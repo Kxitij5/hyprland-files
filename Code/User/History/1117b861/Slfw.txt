@@ -1,0 +1,2 @@
+Always remember to use pulseaudio
+Always use Audio Pro in pavucontrol and set the default audio device as audio pro

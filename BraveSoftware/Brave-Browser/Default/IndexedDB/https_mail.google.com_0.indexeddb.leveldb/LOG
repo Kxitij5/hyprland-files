@@ -1,0 +1,7 @@
+2024/02/25-22:07:52.266 367 Reusing MANIFEST /home/kxitij/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/25-22:07:52.266 367 Recovering log #3
+2024/02/25-22:07:52.266 367 Reusing old log /home/kxitij/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2024/02/25-22:11:12.750 368 Level-0 table #5: started
+2024/02/25-22:11:12.804 368 Level-0 table #5: 1140825 bytes OK
+2024/02/25-22:11:12.810 368 Delete type=0 #3
+2024/02/25-22:11:12.811 368 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

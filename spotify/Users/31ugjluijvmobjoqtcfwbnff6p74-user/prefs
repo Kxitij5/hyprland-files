@@ -1,0 +1,2 @@
+connect.dial_devices="[{\"address\":\"192.168.1.2\",\"app_state\":\"MISSING\",\"created_timestamp\":1708771363,\"device_id\":\"e2dcf033-acca-342e-a33e-e93184b29c0b\",\"dial_location_url\":\"http://192.168.1.2:60000/dd.xml\",\"display_name\":\"Kshitij's FireTVStick\",\"last_seen\":1708776174,\"manufacturer\":\"Amazon\",\"model_name\":\"AFTSSS\",\"product_cap\":\"\",\"public_ip\":\"61.3.18.66\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"00f3610141e7\",\"port\":9,\"retries\":800}}]"
+audio.play_bitrate_non_metered_migrated=true

@@ -1,0 +1,3 @@
+2024-02-28 11:40:14.070 [info] Started local extension host with pid 4788.
+2024-02-28 11:40:16.711 [info] [perf] Render performance baseline is 58ms
+2024-02-28 11:40:18.358 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by Blackbox AI Code Generation, Code Chat, Code Search (Blackboxapp.blackbox)

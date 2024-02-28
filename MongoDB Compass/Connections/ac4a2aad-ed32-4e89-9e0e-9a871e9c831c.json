@@ -1,0 +1,15 @@
+{
+  "_id": "ac4a2aad-ed32-4e89-9e0e-9a871e9c831c",
+  "connectionInfo": {
+    "id": "ac4a2aad-ed32-4e89-9e0e-9a871e9c831c",
+    "favorite": {
+      "name": "tracker"
+    },
+    "connectionOptions": {
+      "connectionString": "mongodb+srv://root@tracker.0k5ao2l.mongodb.net/",
+      "oidc": {}
+    },
+    "lastUsed": "2024-02-08T11:32:50.579Z"
+  },
+  "version": 1
+}

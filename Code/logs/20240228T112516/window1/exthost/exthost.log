@@ -1,0 +1,13 @@
+2024-02-28 11:25:18.441 [info] Extension host with pid 1977 started
+2024-02-28 11:25:18.570 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-28 11:25:18.634 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-02-28 11:25:18.638 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-02-28 11:25:18.685 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-28 11:25:18.712 [info] Eager extensions activated
+2024-02-28 11:25:18.713 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-28 11:25:18.716 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-28 11:25:18.727 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-02-28 11:25:19.098 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-28 11:25:19.154 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-28 11:29:56.439 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-28 11:29:56.448 [info] Extension host with pid 1977 exiting with code 0

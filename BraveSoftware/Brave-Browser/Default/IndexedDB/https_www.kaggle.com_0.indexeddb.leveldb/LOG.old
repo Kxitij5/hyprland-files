@@ -1,0 +1,23 @@
+2024/02/25-22:33:42.383 367 Reusing MANIFEST /home/kxitij/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/25-22:33:42.383 367 Recovering log #6
+2024/02/25-22:33:42.383 367 Reusing old log /home/kxitij/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/000006.log 
+2024/02/25-22:33:42.414 36a Level-0 table #11: started
+2024/02/25-22:33:42.419 36a Level-0 table #11: 6614 bytes OK
+2024/02/25-22:33:42.424 36a Delete type=0 #6
+2024/02/25-22:33:42.425 367 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/25-22:34:23.231 368 Compacting 1@1 + 1@2 files
+2024/02/25-22:34:23.238 368 Generated table #12@1: 41 keys, 2635 bytes
+2024/02/25-22:34:23.238 368 Compacted 1@1 + 1@2 files => 2635 bytes
+2024/02/25-22:34:23.244 368 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/25-22:34:23.246 368 Delete type=2 #8
+2024/02/25-22:34:23.247 368 Delete type=2 #11
+2024/02/25-22:41:20.055 36a Level-0 table #14: started
+2024/02/25-22:41:20.061 36a Level-0 table #14: 5038 bytes OK
+2024/02/25-22:41:20.068 36a Delete type=0 #10
+2024/02/25-22:41:20.068 36a Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/25-22:41:42.028 368 Compacting 1@1 + 1@2 files
+2024/02/25-22:41:42.037 368 Generated table #15@1: 41 keys, 2642 bytes
+2024/02/25-22:41:42.037 368 Compacted 1@1 + 1@2 files => 2642 bytes
+2024/02/25-22:41:42.044 368 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/25-22:41:42.045 368 Delete type=2 #12
+2024/02/25-22:41:42.045 368 Delete type=2 #14
